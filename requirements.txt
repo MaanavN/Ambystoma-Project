@@ -1,2 +1,10 @@
 jupytext
 pyinaturalist
+pandas
+numpy
+matplotlib
+pygeohydro
+py3dep
+pynhd
+rasterio
+requests
