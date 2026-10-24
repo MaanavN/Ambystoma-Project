@@ -6,3 +6,4 @@ rasterio
 pyinaturalist
 geopandas
 osmnx
+whitebox
