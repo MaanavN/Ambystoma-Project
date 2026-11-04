@@ -7,3 +7,4 @@ pyinaturalist
 geopandas
 osmnx
 whitebox
+seamless_3dep

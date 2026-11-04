@@ -219,3 +219,6 @@ __marimo__/
 
 # Old Files
 temp/
+
+# vscode settings
+.vscode
