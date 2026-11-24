@@ -8,3 +8,5 @@ geopandas
 osmnx
 whitebox
 seamless_3dep
+pystac-client
+planetary-computer
