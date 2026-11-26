@@ -10,3 +10,4 @@ whitebox
 seamless_3dep
 pystac-client
 planetary-computer
+elapid

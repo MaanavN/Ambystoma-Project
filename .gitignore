@@ -222,3 +222,6 @@ temp/
 
 # vscode settings
 .vscode
+
+# MaxEnt model implementation plan
+MaxEnt_plan.md
